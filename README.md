@@ -13,13 +13,3 @@ This project uses computer vision to detect vehicle number plates in real-time a
 
 ---
 
-## 🚀 Installation & Usage
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/number-plate-detection.git
-   cd number-plate-detection
-2. instal dependencies:
-   pip install opencv-python numpy
-3.Run the app:
-4.Captured plate images will be saved in the captured_images/ folder.
